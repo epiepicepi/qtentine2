@@ -3,11 +3,11 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import Timeline from "./pages/Timeline";
 import PasswordGate from "./components/PasswordGate";
-import TypingGame from "./pages/TypingGame"; // Import TypingGame
+import TypingGame from "./pages/TypingGame";
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/qtentine2">
       <Routes>
         <Route path="/" element={<Landing />} />
         
