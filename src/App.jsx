@@ -7,7 +7,7 @@ import TypingGame from "./pages/TypingGame";
 
 export default function App() {
   return (
-    <BrowserRouter basename="/qtentine2">
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Landing />} />
         
