@@ -142,13 +142,13 @@ export default function Timeline() {
     },
         {
       date: "19 August 2024",
-      title: "Date night to Margao 🏙️🌆",
+      title: "Date night at Margao 🏙️🌆",
       text: "Night out to mr DIY 🏗️🚧, played carrom at silver owl 🎱.",
       gif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BicHF1a2hoZjM2dzkyam9yZzBwMXUyeThubnJ5eTQ2MzBtOHh1bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/43OKja0fROZxpFoQeg/giphy.gif",
     },
         {
       date: "25 November 2024",
-      title: "A Date night to Navelim fair 🎡 ",
+      title: "A Date night at Navelim fair 🎡 ",
       text: "Evening out to have fun at Navelim, took photos of people and my qt, ate gobi manchurian, went on a very scary giant wheel 🎡😂.",
       gif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDR6bTh0aTVyNm0ydDlpMjgwOXExYmtiOXZlMDZnYXk4N3p4cXU0NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26Ff9XEp3k0saNHjy/giphy.gif",
     },
@@ -160,8 +160,8 @@ export default function Timeline() {
     },
        {
       date: "12 April 2025",
-      title: "A Date night to Margao 🌉 ",
-      text: "A Date night Coinchis, and awesome dinner at Wise Fool filled with laughs 🍗.",
+      title: "A Date night at Margao 🌉 ",
+      text: "A Date night at Coinchis, and awesome dinner at Wise Fool filled with laughs 🍗.",
       gif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGwwMHAxaXE0dzE4M3FkMDE4eXpzdGNhOWl1OWw1cnl2NTZjOGE1cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/10xnAw9YM8IYLe/giphy.gif",
     },
      {
@@ -179,7 +179,7 @@ export default function Timeline() {
      {
       date: "1 October 2025",
       title: "Tanuki lunch date 🍣🍥 ",
-      text: "Lunch at Tanuki leading to my introduction of my qt's favourite sushi and the best sushi every made 😋🍣 .",
+      text: "Lunch at Tanuki leading to my introduction of my qt's favourite sushi and the best sushi ever made 😋🍣 .",
       gif: "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejI4eXBtc2M1dnB6Y3M0enVveXV6c2lkdG8xc2xuNWpxcmZ0b2Z6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/nAM3WDEnZ07meZ2m7v/giphy.gif",
     },
      {
